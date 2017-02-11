@@ -41,5 +41,5 @@ npm run build
 │   ├── vuex           // vuex状态管理器
 │   ├── filters.js     // 各种过滤器
 │   ├── main.js        // Webpack 预编译入口
-│   └──  router.js           // vue路由的配置
+│   └── router.js      // vue路由的配置
 </pre>
