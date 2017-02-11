@@ -1,0 +1,5 @@
+const something = () => {
+
+}
+
+export {something}
