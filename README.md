@@ -6,17 +6,17 @@
 
 ##Including/包含
 
-- vue
-- vuex
-- vue-router
-- vue-resource
-- sass
+- **vue**
+- **vuex**
+- **vue-router**
+- **axios** instead of <span style="text-decoration:line-through">vue-resource</span>   
+- **sass**
 
 ## Build Setup/构建步骤
 
 ``` bash
 # install dependencies
-npm install OR cnpm i
+npm i OR cnpm i
 
 # serve with hot reload at localhost:8080
 npm run dev
